@@ -1,0 +1,15 @@
+C:\Users\Murat\Desktop\nm\obj\Debug\net7.0\nm.csproj.AssemblyReference.cache
+C:\Users\Murat\Desktop\nm\obj\Debug\net7.0\nm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat\Desktop\nm\obj\Debug\net7.0\nm.AssemblyInfoInputs.cache
+C:\Users\Murat\Desktop\nm\obj\Debug\net7.0\nm.AssemblyInfo.cs
+C:\Users\Murat\Desktop\nm\obj\Debug\net7.0\nm.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\nm\bin\Debug\net7.0\nm.exe
+C:\Users\Murat\Desktop\nm\bin\Debug\net7.0\nm.deps.json
+C:\Users\Murat\Desktop\nm\bin\Debug\net7.0\nm.runtimeconfig.json
+C:\Users\Murat\Desktop\nm\bin\Debug\net7.0\nm.dll
+C:\Users\Murat\Desktop\nm\bin\Debug\net7.0\nm.pdb
+C:\Users\Murat\Desktop\nm\obj\Debug\net7.0\nm.dll
+C:\Users\Murat\Desktop\nm\obj\Debug\net7.0\refint\nm.dll
+C:\Users\Murat\Desktop\nm\obj\Debug\net7.0\nm.pdb
+C:\Users\Murat\Desktop\nm\obj\Debug\net7.0\nm.genruntimeconfig.cache
+C:\Users\Murat\Desktop\nm\obj\Debug\net7.0\ref\nm.dll
